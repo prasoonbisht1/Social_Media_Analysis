@@ -1,7 +1,7 @@
 # Instagram Social Media Analytics
 
 ## Project Overview
-This project analyzes user data from an Instagram-like platform to help a marketing team improve user engagement, retention and acquisition. It focuses on identifying peak activity times, top influencers, and content trends.
+This project analyzes user data from Instagram platform to help a marketing team improve user engagement, retention and acquisition. It focuses on identifying peak activity times, top influencers, and content trends.
 
 ## Repository Contents
 * **ig_clone.sql**: The core database script containing the schema (CREATE TABLE) and initial data population.
